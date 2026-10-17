@@ -2,7 +2,7 @@
 
 I build web applications, with a focus on UI and UX.
 
-**Currently building → Rodevo** — turning an idea into a polished, working product.
+**Currently building → Rodevo**
 
 ### Languages
 
