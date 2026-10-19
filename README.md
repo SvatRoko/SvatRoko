@@ -1,5 +1,5 @@
 # About Me:
-# About Me:<br>🔹 I’m currently working on Rodevo<br>🔹 I’m looking to collaborate on open source projects<br>🔹 I’m currently learning backend dev & system architecture<br>🔹 Fun fact I can also design some nice interfaces
+# 🔹 I’m currently working on Rodevo<br>🔹 I’m looking to collaborate on open source projects<br>🔹 I’m currently learning backend dev & system architecture<br>🔹 Fun fact I can also design some nice interfaces
 
 
 ## Socials:
