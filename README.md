@@ -1,5 +1,5 @@
 ## About Me:
-🔹 I’m currently working on a web platform<br>🔹 I’m looking to collaborate on open source projects<br>🔹 I’m currently learning backend dev & system architecture<br>🔹 Fun fact I can design nice user interfaces
+🔹 I’m currently working on a research project<br>🔹 I’m looking to collaborate on open source projects<br>🔹 I’m currently experimenting with projects<br>🔹 Fun fact I can design nice user interfaces
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roko-svat-4b047641b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33214299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svat.roko@gmail.com) 
